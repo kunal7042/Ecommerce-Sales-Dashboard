@@ -35,7 +35,4 @@ This project involves the analysis of e-commerce sales data and the creation of 
 
 3. **Interact with Visuals**: Use the interactive features of Power BI to filter and drill down into specific data points for more detailed analysis.
 
-## Project Structure
-- /data: Contains sample data files used for the project.
-- /dashboard: Contains the Power BI .pbix file.
-- /docs: Documentation and additional resources.
+
