@@ -1,7 +1,9 @@
 E-commerce Sales Data Analysis and Dashboard
+<br>
 Overview
+<br>
 This project involves the analysis of e-commerce sales data and the creation of an interactive dashboard using Microsoft Power BI. The dashboard provides valuable insights into sales performance, customer behavior, and market trends to support strategic decision-making.
-
+<br>
 Features
 Sales Analysis: In-depth analysis of e-commerce sales data to identify key trends and performance metrics.
 Interactive Dashboard: Developed using Microsoft Power BI, the dashboard visualizes sales data in a user-friendly and interactive format.
@@ -18,7 +20,7 @@ Clone the Repository: Clone this repository to your local machine using the foll
 
 bash
 Copy code
-git clone https://github.com/yourusername/ecommerce-sales-dashboard.git
+git clone https://github.com/kunal7042/ecommerce-sales-dashboard.git
 Open the Project: Open the Power BI Desktop application and load the .pbix file located in the cloned repository.
 
 Usage
