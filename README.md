@@ -1,4 +1,6 @@
 # E-commerce Sales Data Analysis and Dashboard
+![image](https://github.com/user-attachments/assets/04f197ec-c655-48d4-923c-1de82bba931c)
+
 
 ## Overview
 
