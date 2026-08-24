@@ -1,5 +1,4 @@
 # E-commerce Sales Data Analysis and Dashboard
-![image](https://github.com/user-attachments/assets/04f197ec-c655-48d4-923c-1de82bba931c)
 
 
 ## 📌 Project Overview
@@ -140,7 +139,6 @@ Interactive filters allow users to explore data based on different quarters and 
 
 ![E-Commerce Sales Dashboard](Dashboard.png)
 
-> Add the dashboard screenshot to the repository and save it as `Dashboard.png` to display it here.
 
 ---
 
